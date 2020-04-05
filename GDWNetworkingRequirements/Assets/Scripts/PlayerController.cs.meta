@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b660915d50f33c468bda59f939f0f3c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backEdge: {instanceID: 0}
+  - boardCenter: {fileID: 261342731821353617, guid: 35123107654d70947a68839415480906,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

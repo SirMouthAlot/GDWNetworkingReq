@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(444,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Client.cpp
+D:\Documents\School\Networking\Midterm-Assignment2-Work\AirHockeyRedo\DLLCODE\NetworkingTutorialDLL\Client.h(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\Documents\School\Networking\Midterm-Assignment2-Work\AirHockeyRedo\DLLCODE\NetworkingTutorialDLL\pch.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\Documents\School\Networking\Midterm-Assignment2-Work\AirHockeyRedo\DLLCODE\NetworkingTutorialDLL\Client.cpp(53,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  DLL.cpp
+D:\Documents\School\Networking\Midterm-Assignment2-Work\AirHockeyRedo\DLLCODE\NetworkingTutorialDLL\Client.h(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\Documents\School\Networking\Midterm-Assignment2-Work\AirHockeyRedo\DLLCODE\NetworkingTutorialDLL\pch.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Generating Code...
+  NetworkingTutorialDLL.vcxproj -> D:\Documents\School\Networking\Midterm-Assignment2-Work\AirHockeyRedo\DLLCODE\NetworkingTutorialDLL\..\..\Assets\Plugins\NetworkingTutorialDLL.dll
